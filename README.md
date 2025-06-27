@@ -4,4 +4,4 @@ learnt trading basics.\
 learnt technical analysis.\
 learnt fundamental analysis.\
 learnt about various trading strategies like mean reversion, market making etc.\
-made strategies for three different scenarious given in assignments.
+made strategies for three different scenarios given in assignments.
