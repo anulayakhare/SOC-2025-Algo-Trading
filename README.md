@@ -1,5 +1,5 @@
 # SOC-2025-Algo-Trading
-Learnt about basics of python and OOPS
+Learnt about basics of python and OOPS.\
 learnt trading basics
 learnt technical analysis
 learnt fundamental analysis
